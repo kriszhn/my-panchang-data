@@ -1,1092 +1,1307 @@
 {
-  "generated_at": "2026-04-27T12:05:11.438890+05:30",
-  "location": {
-    "name": "Bengaluru",
-    "latitude": 12.9716,
-    "longitude": 77.5946,
-    "timezone": "Asia/Kolkata"
+ "generated_at": "2026-08-10T17:24:11.660301+05:30",
+ "location": {
+  "name": "Bengaluru",
+  "latitude": 12.9716,
+  "longitude": 77.5946,
+  "timezone": "Asia/Kolkata"
+ },
+ "ayanamsa": "Lahiri",
+ "data": [
+  {
+   "date": "10/08/2026",
+   "day_of_week": "Monday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Dwadashi",
+    "number": 27,
+    "end_time": "08:01"
+   },
+   "nakshatra": {
+    "name": "Ardra",
+    "number": 6,
+    "end_time": "12:27"
+   },
+   "yoga": {
+    "name": "Vajra",
+    "number": 15,
+    "end_time": "22:27"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "08:01"
+   },
+   "sun": {
+    "rise": "06:08",
+    "set": "18:42"
+   },
+   "moon": {
+    "rise": "03:18",
+    "set": "16:44"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
   },
-  "ayanamsa": "Lahiri",
-  "data": [
-    {
-      "date": "27/04/2026",
-      "day_of_week": "Monday",
-      "tithi": {
-        "name": "Ekadashi",
-        "number": 11,
-        "end_time": "18:16"
-      },
-      "nakshatra": {
-        "name": "Purva Phalguni",
-        "number": 11,
-        "end_time": "21:18"
-      },
-      "yoga": {
-        "name": "Dhruva",
-        "number": 12,
-        "end_time": "21:35"
-      },
-      "karana": {
-        "name": "Bava",
-        "number": 1,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "06:00",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "15:07",
-        "set": "02:55"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Ekadashi (Shukla Paksha)"
-      ]
-    },
-    {
-      "date": "28/04/2026",
-      "day_of_week": "Tuesday",
-      "tithi": {
-        "name": "Dwadashi",
-        "number": 12,
-        "end_time": "18:52"
-      },
-      "nakshatra": {
-        "name": "Uttara Phalguni",
-        "number": 12,
-        "end_time": "22:36"
-      },
-      "yoga": {
-        "name": "Vyaghata",
-        "number": 13,
-        "end_time": "20:59"
-      },
-      "karana": {
-        "name": "Kaulava",
-        "number": 3,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "06:00",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "15:55",
-        "set": "03:32"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "29/04/2026",
-      "day_of_week": "Wednesday",
-      "tithi": {
-        "name": "Trayodashi",
-        "number": 13,
-        "end_time": "19:52"
-      },
-      "nakshatra": {
-        "name": "Hasta",
-        "number": 13,
-        "end_time": "00:16"
-      },
-      "yoga": {
-        "name": "Harshana",
-        "number": 14,
-        "end_time": "20:51"
-      },
-      "karana": {
-        "name": "Garaja",
-        "number": 5,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:59",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "16:43",
-        "set": "04:09"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "30/04/2026",
-      "day_of_week": "Thursday",
-      "tithi": {
-        "name": "Chaturdashi",
-        "number": 14,
-        "end_time": "21:13"
-      },
-      "nakshatra": {
-        "name": "Chitra",
-        "number": 14,
-        "end_time": "02:16"
-      },
-      "yoga": {
-        "name": "Vajra",
-        "number": 15,
-        "end_time": "20:49"
-      },
-      "karana": {
-        "name": "Vishti",
-        "number": 7,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:59",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "17:31",
-        "set": "04:45"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "01/05/2026",
-      "day_of_week": "Friday",
-      "tithi": {
-        "name": "Purnima",
-        "number": 15,
-        "end_time": "22:53"
-      },
-      "nakshatra": {
-        "name": "Swati",
-        "number": 15,
-        "end_time": "04:35"
-      },
-      "yoga": {
-        "name": "Siddhi",
-        "number": 16,
-        "end_time": "21:12"
-      },
-      "karana": {
-        "name": "Balava",
-        "number": 2,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:58",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "18:20",
-        "set": "05:23"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Purnima - Full Moon"
-      ]
-    },
-    {
-      "date": "02/05/2026",
-      "day_of_week": "Saturday",
-      "tithi": {
-        "name": "Pratipada",
-        "number": 16,
-        "end_time": "00:50"
-      },
-      "nakshatra": {
-        "name": "Vishakha",
-        "number": 16,
-        "end_time": "07:04"
-      },
-      "yoga": {
-        "name": "Vyatipata",
-        "number": 17,
-        "end_time": "21:39"
-      },
-      "karana": {
-        "name": "Kaulava",
-        "number": 3,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:58",
-        "set": "18:34"
-      },
-      "moon": {
-        "rise": "19:11",
-        "set": "06:03"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "03/05/2026",
-      "day_of_week": "Sunday",
-      "tithi": {
-        "name": "Dwitiya",
-        "number": 17,
-        "end_time": "03:02"
-      },
-      "nakshatra": {
-        "name": "Anuradha",
-        "number": 17,
-        "end_time": "09:57"
-      },
-      "yoga": {
-        "name": "Variyan",
-        "number": 18,
-        "end_time": "22:27"
-      },
-      "karana": {
-        "name": "Garaja",
-        "number": 5,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:58",
-        "set": "18:35"
-      },
-      "moon": {
-        "rise": "20:03",
-        "set": "06:46"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "04/05/2026",
-      "day_of_week": "Monday",
-      "tithi": {
-        "name": "Tritiya",
-        "number": 18,
-        "end_time": "05:19"
-      },
-      "nakshatra": {
-        "name": "Jyeshtha",
-        "number": 18,
-        "end_time": "Next day"
-      },
-      "yoga": {
-        "name": "Parigha",
-        "number": 19,
-        "end_time": "23:14"
-      },
-      "karana": {
-        "name": "Vishti",
-        "number": 7,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:57",
-        "set": "18:35"
-      },
-      "moon": {
-        "rise": "20:55",
-        "set": "07:33"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "05/05/2026",
-      "day_of_week": "Tuesday",
-      "tithi": {
-        "name": "Chaturthi",
-        "number": 19,
-        "end_time": "07:51"
-      },
-      "nakshatra": {
-        "name": "Jyeshtha",
-        "number": 18,
-        "end_time": "12:49"
-      },
-      "yoga": {
-        "name": "Shiva",
-        "number": 20,
-        "end_time": "00:16"
-      },
-      "karana": {
-        "name": "Balava",
-        "number": 2,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:57",
-        "set": "18:35"
-      },
-      "moon": {
-        "rise": "21:47",
-        "set": "08:23"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "06/05/2026",
-      "day_of_week": "Wednesday",
-      "tithi": {
-        "name": "Panchami",
-        "number": 20,
-        "end_time": "10:09"
-      },
-      "nakshatra": {
-        "name": "Mula",
-        "number": 19,
-        "end_time": "15:53"
-      },
-      "yoga": {
-        "name": "Siddha",
-        "number": 21,
-        "end_time": "01:11"
-      },
-      "karana": {
-        "name": "Taitila",
-        "number": 4,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:56",
-        "set": "18:35"
-      },
-      "moon": {
-        "rise": "22:37",
-        "set": "09:14"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "07/05/2026",
-      "day_of_week": "Thursday",
-      "tithi": {
-        "name": "Shashthi",
-        "number": 21,
-        "end_time": "Next day"
-      },
-      "nakshatra": {
-        "name": "Purva Ashadha",
-        "number": 20,
-        "end_time": "18:45"
-      },
-      "yoga": {
-        "name": "Sadhya",
-        "number": 22,
-        "end_time": "01:54"
-      },
-      "karana": {
-        "name": "Vanija",
-        "number": 6,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:56",
-        "set": "18:35"
-      },
-      "moon": {
-        "rise": "23:24",
-        "set": "10:07"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "08/05/2026",
-      "day_of_week": "Friday",
-      "tithi": {
-        "name": "Shashthi",
-        "number": 21,
-        "end_time": "12:22"
-      },
-      "nakshatra": {
-        "name": "Uttara Ashadha",
-        "number": 21,
-        "end_time": "21:14"
-      },
-      "yoga": {
-        "name": "Shubha",
-        "number": 23,
-        "end_time": "02:24"
-      },
-      "karana": {
-        "name": "Vishti",
-        "number": 7,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:56",
-        "set": "18:36"
-      },
-      "moon": {
-        "rise": "00:08",
-        "set": "10:59"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "09/05/2026",
-      "day_of_week": "Saturday",
-      "tithi": {
-        "name": "Saptami",
-        "number": 22,
-        "end_time": "14:03"
-      },
-      "nakshatra": {
-        "name": "Shravana",
-        "number": 22,
-        "end_time": "23:19"
-      },
-      "yoga": {
-        "name": "Shukla",
-        "number": 24,
-        "end_time": "02:35"
-      },
-      "karana": {
-        "name": "Balava",
-        "number": 2,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:55",
-        "set": "18:36"
-      },
-      "moon": {
-        "rise": "00:08",
-        "set": "11:51"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Shravana Nakshatra"
-      ]
-    },
-    {
-      "date": "10/05/2026",
-      "day_of_week": "Sunday",
-      "tithi": {
-        "name": "Ashtami",
-        "number": 23,
-        "end_time": "15:07"
-      },
-      "nakshatra": {
-        "name": "Dhanishta",
-        "number": 23,
-        "end_time": "00:50"
-      },
-      "yoga": {
-        "name": "Brahma",
-        "number": 25,
-        "end_time": "02:08"
-      },
-      "karana": {
-        "name": "Taitila",
-        "number": 4,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:55",
-        "set": "18:36"
-      },
-      "moon": {
-        "rise": "00:50",
-        "set": "12:41"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "11/05/2026",
-      "day_of_week": "Monday",
-      "tithi": {
-        "name": "Navami",
-        "number": 24,
-        "end_time": "15:25"
-      },
-      "nakshatra": {
-        "name": "Shatabhisha",
-        "number": 24,
-        "end_time": "01:28"
-      },
-      "yoga": {
-        "name": "Indra",
-        "number": 26,
-        "end_time": "00:59"
-      },
-      "karana": {
-        "name": "Vanija",
-        "number": 6,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:55",
-        "set": "18:36"
-      },
-      "moon": {
-        "rise": "01:29",
-        "set": "13:32"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "12/05/2026",
-      "day_of_week": "Tuesday",
-      "tithi": {
-        "name": "Dashami",
-        "number": 25,
-        "end_time": "14:52"
-      },
-      "nakshatra": {
-        "name": "Purva Bhadrapada",
-        "number": 25,
-        "end_time": "01:17"
-      },
-      "yoga": {
-        "name": "Vaidhriti",
-        "number": 27,
-        "end_time": "23:14"
-      },
-      "karana": {
-        "name": "Bava",
-        "number": 1,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:54",
-        "set": "18:37"
-      },
-      "moon": {
-        "rise": "02:08",
-        "set": "14:22"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "13/05/2026",
-      "day_of_week": "Wednesday",
-      "tithi": {
-        "name": "Ekadashi",
-        "number": 26,
-        "end_time": "13:30"
-      },
-      "nakshatra": {
-        "name": "Uttara Bhadrapada",
-        "number": 26,
-        "end_time": "00:17"
-      },
-      "yoga": {
-        "name": "Vishkambha",
-        "number": 1,
-        "end_time": "20:49"
-      },
-      "karana": {
-        "name": "Kaulava",
-        "number": 3,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:54",
-        "set": "18:37"
-      },
-      "moon": {
-        "rise": "02:47",
-        "set": "15:15"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Ekadashi (Krishna Paksha)"
-      ]
-    },
-    {
-      "date": "14/05/2026",
-      "day_of_week": "Thursday",
-      "tithi": {
-        "name": "Trayodashi",
-        "number": 28,
-        "end_time": "08:31"
-      },
-      "nakshatra": {
-        "name": "Revati",
-        "number": 27,
-        "end_time": "22:33"
-      },
-      "yoga": {
-        "name": "Priti",
-        "number": 2,
-        "end_time": "17:53"
-      },
-      "karana": {
-        "name": "Vanija",
-        "number": 6,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:54",
-        "set": "18:37"
-      },
-      "moon": {
-        "rise": "03:28",
-        "set": "16:10"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "15/05/2026",
-      "day_of_week": "Friday",
-      "tithi": {
-        "name": "Chaturdashi",
-        "number": 29,
-        "end_time": "05:11"
-      },
-      "nakshatra": {
-        "name": "Ashwini",
-        "number": 1,
-        "end_time": "20:09"
-      },
-      "yoga": {
-        "name": "Ayushman",
-        "number": 3,
-        "end_time": "14:21"
-      },
-      "karana": {
-        "name": "Bava",
-        "number": 1,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:54",
-        "set": "18:37"
-      },
-      "moon": {
-        "rise": "04:12",
-        "set": "17:10"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "16/05/2026",
-      "day_of_week": "Saturday",
-      "tithi": {
-        "name": "Amavasya",
-        "number": 30,
-        "end_time": "01:31"
-      },
-      "nakshatra": {
-        "name": "Bharani",
-        "number": 2,
-        "end_time": "17:30"
-      },
-      "yoga": {
-        "name": "Shobhana",
-        "number": 5,
-        "end_time": "06:15"
-      },
-      "karana": {
-        "name": "Chatushpada",
-        "number": 9,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:53",
-        "set": "18:38"
-      },
-      "moon": {
-        "rise": "05:02",
-        "set": "18:14"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Amavasya - New Moon"
-      ]
-    },
-    {
-      "date": "17/05/2026",
-      "day_of_week": "Sunday",
-      "tithi": {
-        "name": "Pratipada",
-        "number": 1,
-        "end_time": "21:41"
-      },
-      "nakshatra": {
-        "name": "Krittika",
-        "number": 3,
-        "end_time": "14:32"
-      },
-      "yoga": {
-        "name": "Atiganda",
-        "number": 6,
-        "end_time": "01:54"
-      },
-      "karana": {
-        "name": "Bava",
-        "number": 1,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:53",
-        "set": "18:38"
-      },
-      "moon": {
-        "rise": "05:58",
-        "set": "19:22"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "18/05/2026",
-      "day_of_week": "Monday",
-      "tithi": {
-        "name": "Dwitiya",
-        "number": 2,
-        "end_time": "17:53"
-      },
-      "nakshatra": {
-        "name": "Rohini",
-        "number": 4,
-        "end_time": "11:31"
-      },
-      "yoga": {
-        "name": "Sukarman",
-        "number": 7,
-        "end_time": "21:47"
-      },
-      "karana": {
-        "name": "Taitila",
-        "number": 4,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:53",
-        "set": "18:38"
-      },
-      "moon": {
-        "rise": "07:00",
-        "set": "20:31"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "19/05/2026",
-      "day_of_week": "Tuesday",
-      "tithi": {
-        "name": "Tritiya",
-        "number": 3,
-        "end_time": "14:18"
-      },
-      "nakshatra": {
-        "name": "Ardra",
-        "number": 6,
-        "end_time": "06:11"
-      },
-      "yoga": {
-        "name": "Dhriti",
-        "number": 8,
-        "end_time": "17:48"
-      },
-      "karana": {
-        "name": "Vanija",
-        "number": 6,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:53",
-        "set": "18:38"
-      },
-      "moon": {
-        "rise": "08:07",
-        "set": "21:37"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "20/05/2026",
-      "day_of_week": "Wednesday",
-      "tithi": {
-        "name": "Panchami",
-        "number": 5,
-        "end_time": "08:27"
-      },
-      "nakshatra": {
-        "name": "Punarvasu",
-        "number": 7,
-        "end_time": "04:12"
-      },
-      "yoga": {
-        "name": "Shula",
-        "number": 9,
-        "end_time": "14:04"
-      },
-      "karana": {
-        "name": "Balava",
-        "number": 2,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:53",
-        "set": "18:39"
-      },
-      "moon": {
-        "rise": "09:14",
-        "set": "22:36"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "21/05/2026",
-      "day_of_week": "Thursday",
-      "tithi": {
-        "name": "Shashthi",
-        "number": 6,
-        "end_time": "06:25"
-      },
-      "nakshatra": {
-        "name": "Pushya",
-        "number": 8,
-        "end_time": "02:44"
-      },
-      "yoga": {
-        "name": "Vriddhi",
-        "number": 11,
-        "end_time": "08:18"
-      },
-      "karana": {
-        "name": "Taitila",
-        "number": 4,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:39"
-      },
-      "moon": {
-        "rise": "10:19",
-        "set": "23:28"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "22/05/2026",
-      "day_of_week": "Friday",
-      "tithi": {
-        "name": "Saptami",
-        "number": 7,
-        "end_time": "04:59"
-      },
-      "nakshatra": {
-        "name": "Ashlesha",
-        "number": 9,
-        "end_time": "02:08"
-      },
-      "yoga": {
-        "name": "Dhruva",
-        "number": 12,
-        "end_time": "06:13"
-      },
-      "karana": {
-        "name": "Vanija",
-        "number": 6,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:39"
-      },
-      "moon": {
-        "rise": "11:18",
-        "set": "00:14"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Ashlesha Nakshatra"
-      ]
-    },
-    {
-      "date": "23/05/2026",
-      "day_of_week": "Saturday",
-      "tithi": {
-        "name": "Ashtami",
-        "number": 8,
-        "end_time": "04:27"
-      },
-      "nakshatra": {
-        "name": "Magha",
-        "number": 10,
-        "end_time": "02:04"
-      },
-      "yoga": {
-        "name": "Vyaghata",
-        "number": 13,
-        "end_time": "04:42"
-      },
-      "karana": {
-        "name": "Bava",
-        "number": 1,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:40"
-      },
-      "moon": {
-        "rise": "12:13",
-        "set": "00:14"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "24/05/2026",
-      "day_of_week": "Sunday",
-      "tithi": {
-        "name": "Navami",
-        "number": 9,
-        "end_time": "04:31"
-      },
-      "nakshatra": {
-        "name": "Purva Phalguni",
-        "number": 11,
-        "end_time": "02:50"
-      },
-      "yoga": {
-        "name": "Harshana",
-        "number": 14,
-        "end_time": "03:39"
-      },
-      "karana": {
-        "name": "Kaulava",
-        "number": 3,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:40"
-      },
-      "moon": {
-        "rise": "13:04",
-        "set": "00:55"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "25/05/2026",
-      "day_of_week": "Monday",
-      "tithi": {
-        "name": "Dashami",
-        "number": 10,
-        "end_time": "05:11"
-      },
-      "nakshatra": {
-        "name": "Uttara Phalguni",
-        "number": 12,
-        "end_time": "04:08"
-      },
-      "yoga": {
-        "name": "Vajra",
-        "number": 15,
-        "end_time": "03:15"
-      },
-      "karana": {
-        "name": "Garaja",
-        "number": 5,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:40"
-      },
-      "moon": {
-        "rise": "13:53",
-        "set": "01:33"
-      },
-      "is_special": false,
-      "special_notes": [
-        "Regular day"
-      ]
-    },
-    {
-      "date": "26/05/2026",
-      "day_of_week": "Tuesday",
-      "tithi": {
-        "name": "Ekadashi",
-        "number": 11,
-        "end_time": "06:22"
-      },
-      "nakshatra": {
-        "name": "Hasta",
-        "number": 13,
-        "end_time": "05:56"
-      },
-      "yoga": {
-        "name": "Siddhi",
-        "number": 16,
-        "end_time": "03:10"
-      },
-      "karana": {
-        "name": "Vishti",
-        "number": 7,
-        "end_time": "Varies"
-      },
-      "sun": {
-        "rise": "05:52",
-        "set": "18:41"
-      },
-      "moon": {
-        "rise": "14:41",
-        "set": "02:10"
-      },
-      "is_special": true,
-      "special_notes": [
-        "Ekadashi (Shukla Paksha)"
-      ]
-    }
-  ]
+  {
+   "date": "11/08/2026",
+   "day_of_week": "Tuesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Chaturdashi",
+    "number": 29,
+    "end_time": "01:54"
+   },
+   "nakshatra": {
+    "name": "Punarvasu",
+    "number": 7,
+    "end_time": "10:10"
+   },
+   "yoga": {
+    "name": "Siddhi",
+    "number": 16,
+    "end_time": "18:52"
+   },
+   "karana": {
+    "name": "Vishti",
+    "number": 7,
+    "end_time": "15:23"
+   },
+   "sun": {
+    "rise": "06:08",
+    "set": "18:41"
+   },
+   "moon": {
+    "rise": "04:25",
+    "set": "17:40"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Masik Shivaratri"
+   ]
+  },
+  {
+   "date": "12/08/2026",
+   "day_of_week": "Wednesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Amavasya",
+    "number": 30,
+    "end_time": "23:07"
+   },
+   "nakshatra": {
+    "name": "Pushya",
+    "number": 8,
+    "end_time": "08:00"
+   },
+   "yoga": {
+    "name": "Vyatipata",
+    "number": 17,
+    "end_time": "15:26"
+   },
+   "karana": {
+    "name": "Chatushpada",
+    "number": 2,
+    "end_time": "12:28"
+   },
+   "sun": {
+    "rise": "06:08",
+    "set": "18:41"
+   },
+   "moon": {
+    "rise": "05:29",
+    "set": "18:31"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Amavasya"
+   ]
+  },
+  {
+   "date": "13/08/2026",
+   "day_of_week": "Thursday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Prathama",
+    "number": 1,
+    "end_time": "20:42"
+   },
+   "nakshatra": {
+    "name": "Magha",
+    "number": 10,
+    "end_time": "04:39"
+   },
+   "yoga": {
+    "name": "Variyana",
+    "number": 18,
+    "end_time": "12:16"
+   },
+   "karana": {
+    "name": "Kimstughna",
+    "number": 4,
+    "end_time": "09:51"
+   },
+   "sun": {
+    "rise": "06:08",
+    "set": "18:41"
+   },
+   "moon": {
+    "rise": "06:29",
+    "set": "19:17"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "14/08/2026",
+   "day_of_week": "Friday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Dwitiya",
+    "number": 2,
+    "end_time": "18:47"
+   },
+   "nakshatra": {
+    "name": "Purva Phalguni",
+    "number": 11,
+    "end_time": "03:43"
+   },
+   "yoga": {
+    "name": "Parigha",
+    "number": 19,
+    "end_time": "09:29"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "07:40"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:40"
+   },
+   "moon": {
+    "rise": "07:25",
+    "set": "19:58"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "15/08/2026",
+   "day_of_week": "Saturday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Tritiya",
+    "number": 3,
+    "end_time": "17:29"
+   },
+   "nakshatra": {
+    "name": "Uttara Phalguni",
+    "number": 12,
+    "end_time": "03:26"
+   },
+   "yoga": {
+    "name": "Shiva",
+    "number": 20,
+    "end_time": "07:09"
+   },
+   "karana": {
+    "name": "Garaja",
+    "number": 5,
+    "end_time": "17:29"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:40"
+   },
+   "moon": {
+    "rise": "08:18",
+    "set": "20:38"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "16/08/2026",
+   "day_of_week": "Sunday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Chaturthi",
+    "number": 4,
+    "end_time": "16:53"
+   },
+   "nakshatra": {
+    "name": "Hasta",
+    "number": 13,
+    "end_time": "03:51"
+   },
+   "yoga": {
+    "name": "Sadhya",
+    "number": 22,
+    "end_time": "04:08"
+   },
+   "karana": {
+    "name": "Vishti",
+    "number": 7,
+    "end_time": "16:53"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:39"
+   },
+   "moon": {
+    "rise": "09:10",
+    "set": "21:16"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "17/08/2026",
+   "day_of_week": "Monday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Panchami",
+    "number": 5,
+    "end_time": "17:01"
+   },
+   "nakshatra": {
+    "name": "Chitra",
+    "number": 14,
+    "end_time": "04:59"
+   },
+   "yoga": {
+    "name": "Shubha",
+    "number": 23,
+    "end_time": "03:29"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "17:01"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:38"
+   },
+   "moon": {
+    "rise": "10:00",
+    "set": "21:55"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "18/08/2026",
+   "day_of_week": "Tuesday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Shashthi",
+    "number": 6,
+    "end_time": "17:51"
+   },
+   "nakshatra": {
+    "name": "Swati",
+    "number": 15,
+    "end_time": "06:47"
+   },
+   "yoga": {
+    "name": "Shukla",
+    "number": 24,
+    "end_time": "03:23"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "17:51"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:38"
+   },
+   "moon": {
+    "rise": "10:50",
+    "set": "22:36"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "19/08/2026",
+   "day_of_week": "Wednesday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Saptami",
+    "number": 7,
+    "end_time": "19:20"
+   },
+   "nakshatra": {
+    "name": "Swati",
+    "number": 15,
+    "end_time": "06:47"
+   },
+   "yoga": {
+    "name": "Brahma",
+    "number": 25,
+    "end_time": "03:44"
+   },
+   "karana": {
+    "name": "Garaja",
+    "number": 5,
+    "end_time": "06:31"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:37"
+   },
+   "moon": {
+    "rise": "11:42",
+    "set": "23:19"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "20/08/2026",
+   "day_of_week": "Thursday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Ashtami",
+    "number": 8,
+    "end_time": "21:19"
+   },
+   "nakshatra": {
+    "name": "Vishakha",
+    "number": 16,
+    "end_time": "09:08"
+   },
+   "yoga": {
+    "name": "Indra",
+    "number": 26,
+    "end_time": "04:26"
+   },
+   "karana": {
+    "name": "Vishti",
+    "number": 7,
+    "end_time": "08:16"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:37"
+   },
+   "moon": {
+    "rise": "12:34",
+    "set": "00:05"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "21/08/2026",
+   "day_of_week": "Friday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Navami",
+    "number": 9,
+    "end_time": "23:37"
+   },
+   "nakshatra": {
+    "name": "Anuradha",
+    "number": 17,
+    "end_time": "11:53"
+   },
+   "yoga": {
+    "name": "Vaidhriti",
+    "number": 27,
+    "end_time": "05:19"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "10:26"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:36"
+   },
+   "moon": {
+    "rise": "13:26",
+    "set": "00:05"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "22/08/2026",
+   "day_of_week": "Saturday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Dashami",
+    "number": 10,
+    "end_time": "02:01"
+   },
+   "nakshatra": {
+    "name": "Jyeshtha",
+    "number": 18,
+    "end_time": "14:49"
+   },
+   "yoga": {
+    "name": "Vishkambha",
+    "number": 1,
+    "end_time": "06:15"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "12:49"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:36"
+   },
+   "moon": {
+    "rise": "14:18",
+    "set": "00:53"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "23/08/2026",
+   "day_of_week": "Sunday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Ekadashi",
+    "number": 11,
+    "end_time": "04:19"
+   },
+   "nakshatra": {
+    "name": "Mula",
+    "number": 19,
+    "end_time": "17:45"
+   },
+   "yoga": {
+    "name": "Vishkambha",
+    "number": 1,
+    "end_time": "06:15"
+   },
+   "karana": {
+    "name": "Vanija",
+    "number": 6,
+    "end_time": "15:11"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:35"
+   },
+   "moon": {
+    "rise": "15:09",
+    "set": "01:45"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Ekadashi (Shukla Paksha)"
+   ]
+  },
+  {
+   "date": "24/08/2026",
+   "day_of_week": "Monday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Dwadashi",
+    "number": 12,
+    "end_time": "06:21"
+   },
+   "nakshatra": {
+    "name": "Purva Ashadha",
+    "number": 20,
+    "end_time": "20:28"
+   },
+   "yoga": {
+    "name": "Priti",
+    "number": 2,
+    "end_time": "07:05"
+   },
+   "karana": {
+    "name": "Bava",
+    "number": 1,
+    "end_time": "17:23"
+   },
+   "sun": {
+    "rise": "06:09",
+    "set": "18:34"
+   },
+   "moon": {
+    "rise": "15:57",
+    "set": "02:37"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "25/08/2026",
+   "day_of_week": "Tuesday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Dwadashi",
+    "number": 12,
+    "end_time": "06:21"
+   },
+   "nakshatra": {
+    "name": "Uttara Ashadha",
+    "number": 21,
+    "end_time": "22:52"
+   },
+   "yoga": {
+    "name": "Ayushman",
+    "number": 3,
+    "end_time": "07:41"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "06:21"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:34"
+   },
+   "moon": {
+    "rise": "16:43",
+    "set": "03:30"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "26/08/2026",
+   "day_of_week": "Wednesday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Trayodashi",
+    "number": 13,
+    "end_time": "08:00"
+   },
+   "nakshatra": {
+    "name": "Shravana",
+    "number": 22,
+    "end_time": "00:48"
+   },
+   "yoga": {
+    "name": "Saubhagya",
+    "number": 4,
+    "end_time": "08:00"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "08:00"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:33"
+   },
+   "moon": {
+    "rise": "17:25",
+    "set": "04:22"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "27/08/2026",
+   "day_of_week": "Thursday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Chaturdashi",
+    "number": 14,
+    "end_time": "09:09"
+   },
+   "nakshatra": {
+    "name": "Dhanishta",
+    "number": 23,
+    "end_time": "02:16"
+   },
+   "yoga": {
+    "name": "Shobhana",
+    "number": 5,
+    "end_time": "07:56"
+   },
+   "karana": {
+    "name": "Vanija",
+    "number": 6,
+    "end_time": "09:09"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:33"
+   },
+   "moon": {
+    "rise": "18:05",
+    "set": "05:14"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "28/08/2026",
+   "day_of_week": "Friday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Purnima",
+    "number": 15,
+    "end_time": "09:49"
+   },
+   "nakshatra": {
+    "name": "Shatabhisha",
+    "number": 24,
+    "end_time": "03:13"
+   },
+   "yoga": {
+    "name": "Atiganda",
+    "number": 6,
+    "end_time": "07:28"
+   },
+   "karana": {
+    "name": "Bava",
+    "number": 1,
+    "end_time": "09:49"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:32"
+   },
+   "moon": {
+    "rise": "18:43",
+    "set": "06:04"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Purnima"
+   ]
+  },
+  {
+   "date": "29/08/2026",
+   "day_of_week": "Saturday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Prathama",
+    "number": 16,
+    "end_time": "09:57"
+   },
+   "nakshatra": {
+    "name": "Purva Bhadrapada",
+    "number": 25,
+    "end_time": "03:42"
+   },
+   "yoga": {
+    "name": "Sukarma",
+    "number": 7,
+    "end_time": "06:36"
+   },
+   "karana": {
+    "name": "Kaulava",
+    "number": 3,
+    "end_time": "09:57"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:31"
+   },
+   "moon": {
+    "rise": "19:21",
+    "set": "06:53"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "30/08/2026",
+   "day_of_week": "Sunday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Dwitiya",
+    "number": 17,
+    "end_time": "09:38"
+   },
+   "nakshatra": {
+    "name": "Uttara Bhadrapada",
+    "number": 26,
+    "end_time": "03:45"
+   },
+   "yoga": {
+    "name": "Shula",
+    "number": 9,
+    "end_time": "03:46"
+   },
+   "karana": {
+    "name": "Garaja",
+    "number": 5,
+    "end_time": "09:38"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:31"
+   },
+   "moon": {
+    "rise": "19:59",
+    "set": "07:43"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "31/08/2026",
+   "day_of_week": "Monday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Tritiya",
+    "number": 18,
+    "end_time": "08:52"
+   },
+   "nakshatra": {
+    "name": "Revati",
+    "number": 27,
+    "end_time": "03:24"
+   },
+   "yoga": {
+    "name": "Ganda",
+    "number": 10,
+    "end_time": "01:51"
+   },
+   "karana": {
+    "name": "Vishti",
+    "number": 7,
+    "end_time": "08:52"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:30"
+   },
+   "moon": {
+    "rise": "20:39",
+    "set": "08:34"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "01/09/2026",
+   "day_of_week": "Tuesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Chaturthi",
+    "number": 19,
+    "end_time": "07:42"
+   },
+   "nakshatra": {
+    "name": "Ashwini",
+    "number": 1,
+    "end_time": "02:42"
+   },
+   "yoga": {
+    "name": "Vriddhi",
+    "number": 11,
+    "end_time": "23:39"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "07:42"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:29"
+   },
+   "moon": {
+    "rise": "21:23",
+    "set": "09:28"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Sankashti Chaturthi"
+   ]
+  },
+  {
+   "date": "02/09/2026",
+   "day_of_week": "Wednesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Panchami",
+    "number": 20,
+    "end_time": "06:13"
+   },
+   "nakshatra": {
+    "name": "Bharani",
+    "number": 2,
+    "end_time": "01:43"
+   },
+   "yoga": {
+    "name": "Dhruva",
+    "number": 12,
+    "end_time": "21:12"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "06:13"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:29"
+   },
+   "moon": {
+    "rise": "22:11",
+    "set": "10:25"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "03/09/2026",
+   "day_of_week": "Thursday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Saptami",
+    "number": 22,
+    "end_time": "02:26"
+   },
+   "nakshatra": {
+    "name": "Krittika",
+    "number": 3,
+    "end_time": "00:30"
+   },
+   "yoga": {
+    "name": "Vyaghata",
+    "number": 13,
+    "end_time": "18:33"
+   },
+   "karana": {
+    "name": "Vishti",
+    "number": 7,
+    "end_time": "15:28"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:28"
+   },
+   "moon": {
+    "rise": "23:04",
+    "set": "11:25"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "04/09/2026",
+   "day_of_week": "Friday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Ashtami",
+    "number": 23,
+    "end_time": "00:14"
+   },
+   "nakshatra": {
+    "name": "Rohini",
+    "number": 4,
+    "end_time": "23:04"
+   },
+   "yoga": {
+    "name": "Harshana",
+    "number": 14,
+    "end_time": "15:44"
+   },
+   "karana": {
+    "name": "Balava",
+    "number": 2,
+    "end_time": "13:21"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:27"
+   },
+   "moon": {
+    "rise": "00:03",
+    "set": "12:28"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "05/09/2026",
+   "day_of_week": "Saturday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Navami",
+    "number": 24,
+    "end_time": "21:54"
+   },
+   "nakshatra": {
+    "name": "Mrigashira",
+    "number": 5,
+    "end_time": "21:31"
+   },
+   "yoga": {
+    "name": "Vajra",
+    "number": 15,
+    "end_time": "12:47"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "11:05"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:27"
+   },
+   "moon": {
+    "rise": "00:03",
+    "set": "13:32"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "06/09/2026",
+   "day_of_week": "Sunday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Dashami",
+    "number": 25,
+    "end_time": "19:30"
+   },
+   "nakshatra": {
+    "name": "Ardra",
+    "number": 6,
+    "end_time": "19:53"
+   },
+   "yoga": {
+    "name": "Siddhi",
+    "number": 16,
+    "end_time": "09:45"
+   },
+   "karana": {
+    "name": "Vanija",
+    "number": 6,
+    "end_time": "08:42"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:26"
+   },
+   "moon": {
+    "rise": "01:07",
+    "set": "14:33"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "07/09/2026",
+   "day_of_week": "Monday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Ekadashi",
+    "number": 26,
+    "end_time": "17:05"
+   },
+   "nakshatra": {
+    "name": "Punarvasu",
+    "number": 7,
+    "end_time": "18:14"
+   },
+   "yoga": {
+    "name": "Vyatipata",
+    "number": 17,
+    "end_time": "06:41"
+   },
+   "karana": {
+    "name": "Bava",
+    "number": 1,
+    "end_time": "06:17"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:25"
+   },
+   "moon": {
+    "rise": "02:11",
+    "set": "15:30"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Ekadashi (Krishna Paksha)"
+   ]
+  },
+  {
+   "date": "08/09/2026",
+   "day_of_week": "Tuesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Dwadashi",
+    "number": 27,
+    "end_time": "14:43"
+   },
+   "nakshatra": {
+    "name": "Pushya",
+    "number": 8,
+    "end_time": "16:40"
+   },
+   "yoga": {
+    "name": "Parigha",
+    "number": 19,
+    "end_time": "00:41"
+   },
+   "karana": {
+    "name": "Taitila",
+    "number": 4,
+    "end_time": "14:43"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:25"
+   },
+   "moon": {
+    "rise": "03:15",
+    "set": "16:22"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "09/09/2026",
+   "day_of_week": "Wednesday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Trayodashi",
+    "number": 28,
+    "end_time": "12:31"
+   },
+   "nakshatra": {
+    "name": "Ashlesha",
+    "number": 9,
+    "end_time": "15:15"
+   },
+   "yoga": {
+    "name": "Shiva",
+    "number": 20,
+    "end_time": "21:52"
+   },
+   "karana": {
+    "name": "Vanija",
+    "number": 6,
+    "end_time": "12:31"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:24"
+   },
+   "moon": {
+    "rise": "04:15",
+    "set": "17:08"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "10/09/2026",
+   "day_of_week": "Thursday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Chaturdashi",
+    "number": 29,
+    "end_time": "10:34"
+   },
+   "nakshatra": {
+    "name": "Magha",
+    "number": 10,
+    "end_time": "14:05"
+   },
+   "yoga": {
+    "name": "Siddha",
+    "number": 21,
+    "end_time": "19:18"
+   },
+   "karana": {
+    "name": "Shakuni",
+    "number": 1,
+    "end_time": "10:34"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:23"
+   },
+   "moon": {
+    "rise": "05:12",
+    "set": "17:51"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Masik Shivaratri"
+   ]
+  },
+  {
+   "date": "11/09/2026",
+   "day_of_week": "Friday",
+   "paksha": "Krishna",
+   "tithi": {
+    "name": "Amavasya",
+    "number": 30,
+    "end_time": "08:57"
+   },
+   "nakshatra": {
+    "name": "Purva Phalguni",
+    "number": 11,
+    "end_time": "13:16"
+   },
+   "yoga": {
+    "name": "Sadhya",
+    "number": 22,
+    "end_time": "17:02"
+   },
+   "karana": {
+    "name": "Naga",
+    "number": 3,
+    "end_time": "08:57"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:23"
+   },
+   "moon": {
+    "rise": "06:06",
+    "set": "18:31"
+   },
+   "is_special": true,
+   "special_notes": [
+    "Amavasya"
+   ]
+  },
+  {
+   "date": "12/09/2026",
+   "day_of_week": "Saturday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Prathama",
+    "number": 1,
+    "end_time": "07:47"
+   },
+   "nakshatra": {
+    "name": "Uttara Phalguni",
+    "number": 12,
+    "end_time": "12:56"
+   },
+   "yoga": {
+    "name": "Shubha",
+    "number": 23,
+    "end_time": "15:09"
+   },
+   "karana": {
+    "name": "Bava",
+    "number": 1,
+    "end_time": "07:47"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:22"
+   },
+   "moon": {
+    "rise": "06:58",
+    "set": "19:10"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  },
+  {
+   "date": "13/09/2026",
+   "day_of_week": "Sunday",
+   "paksha": "Shukla",
+   "tithi": {
+    "name": "Dwitiya",
+    "number": 2,
+    "end_time": "07:09"
+   },
+   "nakshatra": {
+    "name": "Hasta",
+    "number": 13,
+    "end_time": "13:07"
+   },
+   "yoga": {
+    "name": "Shukla",
+    "number": 24,
+    "end_time": "13:43"
+   },
+   "karana": {
+    "name": "Kaulava",
+    "number": 3,
+    "end_time": "07:09"
+   },
+   "sun": {
+    "rise": "06:10",
+    "set": "18:21"
+   },
+   "moon": {
+    "rise": "07:49",
+    "set": "19:49"
+   },
+   "is_special": false,
+   "special_notes": [
+    "Regular day"
+   ]
+  }
+ ]
 }
